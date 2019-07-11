@@ -1,0 +1,14 @@
+{
+    "name": "zgb1987331/composer_test",
+    "description": "描述",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhangguangbin",
+            "email": "64818165@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
